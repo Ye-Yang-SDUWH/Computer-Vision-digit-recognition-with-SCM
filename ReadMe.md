@@ -1,12 +1,9 @@
-计算机视觉作业：第一部分
+Handwritten Numeral Recognition
 
-单片机+手写数字识别
+The deep learning model has been deployed on the SCM.
 
-使用芯片：stc8(无扩展内存)
+The accuracy is about 92%.
 
-网络：卷积网络
+This work includes C and python. The procedure and principle are comperatively complicated.
 
-准确率：92%
-
-python部分在 cnn_python中。
-
+IF u are interested in embedded artificial intelligence device, we can have further discussion.
